@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_akatsuki.mk
+    $(LOCAL_DIR)/awaken_akatsuki.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_akatsuki-user \
-    lineage_akatsuki-userdebug \
-    lineage_akatsuki-eng
+    awaken_akatsuki-user \
+    awaken_akatsuki-userdebug \
+    awaken_akatsuki-eng
